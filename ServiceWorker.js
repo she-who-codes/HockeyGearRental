@@ -1,4 +1,4 @@
-const cacheName = "Black Hive Media-KH Gear App-0.6";
+const cacheName = "Black Hive Media-KH Gear App-0.64";
 const contentToCache = [
     "Build/HockeyGearRental.loader.js",
     "Build/HockeyGearRental.framework.js",
